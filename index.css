@@ -22,3 +22,24 @@
     height: 100px;
     background-color: green;
 }
+.objet1{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+}
+.objet2{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 100px;
+}
+.objet3{
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 100px;
+}
