@@ -1,8 +1,24 @@
-.divtexte{
+.objet{
     display: flex;
-    justify-content: center;
     align-items: center;
-    font-size: 30px;
-    height: 100vh;
+    justify-content: center;
+    gap: 100px;
+}
 
+.carre1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.carre2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.rectangle {
+    width: 200px;
+    height: 100px;
+    background-color: green;
 }
